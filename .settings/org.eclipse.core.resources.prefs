@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ssm/controller/EmployeeController.java=UTF-8
+encoding//src/main/resources/dbconfig.properties=UTF-8
+encoding//src/main/resources/mapper/DepartmentMapper.xml=GBK
+encoding//src/main/resources/mapper/EmployeeMapper.xml=GBK
+encoding//src/main/webapp/WEB-INF/views/list.jsp=UTF-8
